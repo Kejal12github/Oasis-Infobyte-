@@ -1,3 +1,3 @@
-customer Segmentation Analysis
-Wine Quality Prediction
-House Price Prediction 
+1) customer Segmentation Analysis
+2) Wine Quality Prediction
+3) House Price Prediction 
